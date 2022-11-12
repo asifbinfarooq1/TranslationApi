@@ -10,7 +10,7 @@ const options = {
 	headers: {
 		'content-type': 'application/x-www-form-urlencoded',
 		'Accept-Encoding': 'application/gzip',
-		'X-RapidAPI-Key': '12f7f36fbbmshb5384e520e260dap1ac6c7jsn84c2d2f84776',
+		'X-RapidAPI-Key': 'GET YOUR OWN API KEY FROM RAPID API',
 		'X-RapidAPI-Host': 'google-translate1.p.rapidapi.com'
 	},
 	body: encodedParams
